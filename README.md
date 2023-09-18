@@ -4,4 +4,4 @@ UI completed successfully.
 
 <br>
 Backend also completed successfully. 
-![image](https://github.com/KhanMubashshirAzeem/Calculator/assets/123080070/d54e7d7c-6b58-4297-9936-727557b20ad6)
+https://github.com/KhanMubashshirAzeem/Calculator/assets/123080070/d54e7d7c-6b58-4297-9936-727557b20ad6
